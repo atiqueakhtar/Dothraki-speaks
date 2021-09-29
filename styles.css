@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Sunshiney&display=swap');
+body{
+    font-family: 'Sunshiney', cursive; 
+}
+textarea{
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+/* .container-center{
+    width: 80%;
+    margin: 1rem;
+} */
+button{
+    margin-left: 9.8%;
+    margin-top: 1rem;
+}
+textarea{
+    padding: 1rem;
+    border-radius: 25px;
+}
